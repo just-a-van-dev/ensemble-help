@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ensemble-help/static/css/main.84869235.css",
+    "main.js": "/ensemble-help/static/js/main.eecc475b.js",
+    "static/js/787.e82486ba.chunk.js": "/ensemble-help/static/js/787.e82486ba.chunk.js",
+    "index.html": "/ensemble-help/index.html",
+    "main.84869235.css.map": "/ensemble-help/static/css/main.84869235.css.map",
+    "main.eecc475b.js.map": "/ensemble-help/static/js/main.eecc475b.js.map",
+    "787.e82486ba.chunk.js.map": "/ensemble-help/static/js/787.e82486ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84869235.css",
+    "static/js/main.eecc475b.js"
+  ]
+}
